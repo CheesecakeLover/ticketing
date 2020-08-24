@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="180afc0a-153c-420c-98f8-e614f1608add" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1gWDyKRL5pAciuzK5iICFiYcRgy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="bgoldi01@gmail.com" />
+    <property name="ACTIVE_CLOUD_PROJECT_ID" value="ambient-sphere-287401" />
+    <property name="ACTIVE_CLOUD_PROJECT_NAME" value="ticketing-dev" />
+    <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="853759527062" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\tftd\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="DockerRegistry" />
+    <property name="ts.external.directory.path" value="D:\Development\ticketing\auth\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="Develop on Kubernetes" type="google-container-tools-skaffold-run-config" factoryName="google-container-tools-skaffold-run-config-dev" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="cleanupDeployments" value="true" />
+      <option name="envVariables" />
+      <option name="imageRepositoryOverride" />
+      <option name="kubernetesContext" />
+      <option name="mappings">
+        <list />
+      </option>
+      <option name="redeployOnChanges" value="true" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="skaffoldConfigurationFilePath" value="$PROJECT_DIR$/skaffold.yaml" />
+      <option name="skaffoldNamespace" />
+      <option name="skaffoldProfile" />
+      <option name="verbosity" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run on Kubernetes" type="google-container-tools-skaffold-run-config" factoryName="google-container-tools-skaffold-run-config-dev" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="cleanupDeployments" value="true" />
+      <option name="envVariables" />
+      <option name="imageRepositoryOverride" />
+      <option name="kubernetesContext" />
+      <option name="mappings">
+        <list />
+      </option>
+      <option name="redeployOnChanges" value="false" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="skaffoldConfigurationFilePath" value="$PROJECT_DIR$/skaffold.yaml" />
+      <option name="skaffoldNamespace" />
+      <option name="skaffoldProfile" />
+      <option name="verbosity" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/auth/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="180afc0a-153c-420c-98f8-e614f1608add" name="Default Changelist" comment="" />
+      <created>1598221707789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598221707789</updated>
+      <workItem from="1598221708877" duration="1267000" />
+      <workItem from="1598223002434" duration="14996000" />
+      <workItem from="1598279967526" duration="7866000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1244" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1598239840780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1244" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-986.1440.2520@0.0.1920.1040" timestamp="1598239840780" />
+    <state x="1219" y="274" key="FileChooserDialogImpl" timestamp="1598221895907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1219" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.-986.1440.2520@0.0.1920.1040" timestamp="1598221895907" />
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1598287940891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-986.1440.2520@0.0.1920.1040" timestamp="1598287940891" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1598287940890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-986.1440.2520@0.0.1920.1040" timestamp="1598287940890" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1598287940890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-986.1440.2520@0.0.1920.1040" timestamp="1598287940890" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1598287940891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-986.1440.2520@0.0.1920.1040" timestamp="1598287940891" />
+    <state x="970" y="164" key="SettingsEditor" timestamp="1598234882895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="970" y="164" key="SettingsEditor/0.0.1920.1040/1920.-986.1440.2520@0.0.1920.1040" timestamp="1598234882895" />
+  </component>
+</project>
